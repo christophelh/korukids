@@ -96,7 +96,7 @@ If we help nannies from **segment A** to connect with the right family we will i
 
 ---
 
-> Metrics
+> Metrics to measure (While running A/B test)
 
 - Number of families contacted
 - Number of profiles modified 
@@ -128,3 +128,5 @@ If we help nannies from **segment A** to connect with the right family we will i
 - Increase the radius for nannies who have low amount of parents near them will increase matching rate 
 - Reactivate nannies who haven't been online in the past 60 days will help to increase the amount of matches. 
 - Send a survey to nannies who havent been matched will help us to understand why ?
+
+
