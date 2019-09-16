@@ -60,9 +60,6 @@ html {
   margin-bottom: 0.5em;
 }
 
-h2,h3{
-  color: var(--title)
-}
 
 a {
   color: var(--text);

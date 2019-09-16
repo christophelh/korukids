@@ -109,7 +109,7 @@ If we help nannies from **segment A** to connect with the right family we will i
 > Tools to analyze results 
 
 - Hotjar (Qualitative behaviour).
-- Optimizely & Google Experiments to conduct Email and Landing page (A/B Test).
+- Optimizely & Google Experiments to conduct Email and Landing page experiment (A/B Test).
 - Visits, contacts, on-site nannies activities logs.
 - Volume of Emails, opening rate.
 - Gatsy to create high volume of landing pages.
