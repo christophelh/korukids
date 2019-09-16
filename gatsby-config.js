@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     name: `Christophe Honoré`,
-    title: `Koru Kids Presentation`,
+    title: `Koru Kids`,
     date: `Sept 16 2019`,
   },
   plugins: [
