@@ -4,6 +4,7 @@
   --accent: #3178cd;
   --text: black;
   --base: 1.5rem;
+  --title: #F34650
 }
 
 @media (max-width: 600px) {
@@ -59,6 +60,10 @@ html {
   margin-bottom: 0.5em;
 }
 
+h2,h3{
+  color: var(--title)
+}
+
 a {
   color: var(--text);
 
@@ -66,11 +71,10 @@ a {
 }
 
 blockquote {
+  color: var(--title);
   font-size: 120%;
   font-weight: bold;
-
   width: 55vw;
-
   text-align: left;
 }
 

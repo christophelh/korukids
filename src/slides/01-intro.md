@@ -4,17 +4,17 @@
 
 ---
 
-## Objectives 🌟
+> Objectives 🌟
 - Improve revenue by improving the matching rate between nannies and parents.
-- Collect qualitative datas to understand nannies mindset.
+- Collect qualitative datas to understand nannies' mindset.
 
 ---
 
-## Brainstorming phase 🧐
+> Brainstorming phase 🧐
 
-- **Ideal nannies (Quick Win):** show motivation (Actively searching, sent high volume of emails, good availbilities , High number of families around)
-- **Less Ideal nannies:** Not active the last 60days , low amount of emails sent , low availabilities 
-- **Nannies who need a push (A bet 🃏):** Low amount of emails sent, Active in the last 60 days, Good amount of parents around. 
+- **Ideal nannies:** Highly motivated (actively searching, sent high volume of emails, good availbilities , high number of families around)
+- **Less ideal nannies:** Not active in the last 60 days, sent a low amount of emails, have low availabilities. 
+- **Nannies who need a push:** Low amount of emails sent, active in the last 60 days,good amount of parents around. 
 - **Questions** Why nannies who sent high volume & have a high number of parents around didnt get matched yet ???? 
  
 ---
@@ -26,7 +26,7 @@
 > Higher Chance to be Matched **(Quick Win)**  👍🏽 ... 
 
 - Been active the last 60 days. 
-- Sent high number of  emails than Avg *(Avg 8)*. 
+- Sent high number of  emails *(Avg 8)*. 
 - Strong Open Rate 
 - Have a good number of parents near them *(Avg 40)*.
 - **Data Size** 47/201 =>  23% ( Acceptable sample size)
@@ -36,18 +36,18 @@
 
 > Less Ideal nannies   ... 👎🏼
 
-- Nannies who sent a low volume of emails
-- Nannies who haven't been online within 60 days 
-- High number of parents around
+- Nannies who sent a low volume of emails.
+- Nannies who haven't been online within 60 days. 
+- High number of parents around.
 - **Data Size** 26/201 =>  12% ( Small sample)
 
 ---
 
 > Nannies who need a push 🦸🏼‍♀️
 
-- Nannies who sent a low volume of emails
-- High number of families around them (Higher competition)
-- Have been online in the last 60 days
+- Nannies who sent a low volume of emails.
+- High number of families around them.
+- Have been online in the last 60 days.
 - **Data Size** 33/201 =>  16% (Small sample)
 
 ---
@@ -57,7 +57,7 @@
 - Sample size
 - Higly motivated nannies
 - In Market nannies
-- But need a small qualitative investigation (Why haven't them been matched yet)
+- But need a small qualitative investigation before running experiments (Why haven't them been matched yet)
 
 ---
 
@@ -71,6 +71,8 @@ If we help nannies from **segment A** to connect with the right family we will i
 - Encourage them to browse and contact more families.
 - Increase the raduis to show them more families around.
 - Review quality of their profiles.
+- Make nannies spend more times on the site.
+- Contact them by phone.
 
 ---
 
@@ -79,7 +81,7 @@ If we help nannies from **segment A** to connect with the right family we will i
 - Email 
 - Retargeting Paid Social.
 - Retargeting Search. 
-- Landing page (With tips, Show them that other nannies like them have been matched). 
+- Landing page (Include tips, show other nannies that have been matched). 
   
 --- 
 
@@ -88,9 +90,9 @@ If we help nannies from **segment A** to connect with the right family we will i
 - Increase emails frequency.
 - Showcase the number of families currently searching.
 - Give more personalised tips to improve their profile.
-- Send emails to families with nannies from segment A.
-- Encourage to make a contact on both side.
-- Social Proof
+- Send emails to families with nannies profile from segment A.
+- Encourage contacts on both side.
+- Social Proof !!
 
 ---
 
@@ -106,9 +108,11 @@ If we help nannies from **segment A** to connect with the right family we will i
 
 > Tools to analyze results 
 
-- Hotjar (Qualitative behaviour)
-- Visits , contacts , nannies activities logs
-- Emails logs
+- Hotjar (Qualitative behaviour).
+- Optimizely & Google Experiments to conduct Email and Landing page (A/B Test).
+- Visits, contacts, on-site nannies activities logs.
+- Volume of Emails, opening rate.
+- Gatsy to create high volume of landing pages.
   
 
 --- 
